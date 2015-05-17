@@ -1,0 +1,27 @@
+{
+  "name": "ng2-example-typescript",
+  "version": "0.0.0",
+  "description": "Angular2 Example with TypeScript",
+  "main": " ",
+  "dependencies": {},
+  "devDependencies": {
+    "del": "^1.1.1",
+    "gulp": "^3.8.11",
+    "gulp-tsd": "0.0.4",
+    "gulp-typescript": "^2.7.4",
+    "typescript": "^1.5.0-beta"
+  },
+  "scripts": {
+    "test": " "
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dustinspecker/ng2-example-typescript.git"
+  },
+  "author": "Dustin Specker",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dustinspecker/ng2-example-typescript/issues"
+  },
+  "homepage": "https://github.com/dustinspecker/ng2-example-typescript"
+}
