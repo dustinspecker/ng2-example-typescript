@@ -1,0 +1,15 @@
+{
+  "version": "1.5.0",
+  "compilerOptions": {
+    "emitDecoratorMetadata": true,
+    "listFiles": true,
+    "module": "commonjs",
+    "noLib": false,
+    "target": "es5"
+  },
+  "files": [
+    "app/app.ts",
+    "app/list-item/list-item.ts",
+    "typings/tsd.d.ts"
+  ]
+}
